@@ -18,7 +18,7 @@ export const PLANS: Plan[] = [
     ],
     recommended: false,
     ctaText: "Upgrade to Pro",
-    stripeProductId: "prod_Tru8RuCJGn2pUx",
+    stripeProductId: "prod_TsysMzPn90VYXa",
   },
   {
     id: "lifetime",
